@@ -1,6 +1,6 @@
 'use strict'
 
-var http = require('http')
+var http = require('http2')
   , https = require('https')
   , url = require('url')
   , util = require('util')
